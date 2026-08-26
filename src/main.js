@@ -1,5 +1,3 @@
-import './style.css';
-
 const CONFIG = {
   lineUrl: '#contact', // LINE公式URL取得後に差し替え
   formEndpoint: '', // フォーム送信先取得後に差し替え
